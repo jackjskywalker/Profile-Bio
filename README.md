@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-With a background in business and information technology, I am passionate about creating websites and softwares that help increase people market their brands and work more efficiently. Here is a portfolio of projects done previously for academic and personal endeavors. 
+With a background in business and information technology, I am passionate about creating websites and softwares that help people market their brands and work more efficiently. Here is a portfolio of projects done previously for academic and personal endeavors. 
 
 
 # 💻 Tech Stack:
